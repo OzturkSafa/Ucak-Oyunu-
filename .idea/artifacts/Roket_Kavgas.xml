@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Roket Kavgası">
+    <output-path>$PROJECT_DIR$/out/artifacts/Roket_Kavgas</output-path>
+    <root id="archive" name="Ucak Oyunu.jar">
+      <element id="module-output" name="Ucak Oyunu" />
+    </root>
+  </artifact>
+</component>
